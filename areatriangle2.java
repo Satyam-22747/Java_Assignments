@@ -6,6 +6,6 @@ class areatriangle2
 float area;
 areatriangle2 ar=new areatriangle2();
 area=(ar.length)*(ar.breadth)/2;
-System.out.println("Area="+area);
+System.out.println("Area= "+area);
 }
 }
